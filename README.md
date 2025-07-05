@@ -1,4 +1,17 @@
-# Retail Sales Analysis SQL Project
+## 📊 Retail Sales Analysis – Learning Project
+
+This repository is a fork of the original [Retail Sales Analysis project](https://github.com/original-author/repo-name), which I used for educational purposes.
+
+I explored this project to understand the full workflow of data analysis, including:
+- Working with CSV data
+- Writing SQL queries for retail metrics
+- Cleaning and transforming data
+- Creating dashboards (Power BI or any BI tool)
+
+While the core project structure is based on the original, I’ve added my own insights, notes, and code comments throughout the process to reinforce my learning.
+
+> ⚠️ Credit goes to the original author. This is not an attempt to claim ownership, but to document my learning journey.
+
 
 ## Project Overview
 
