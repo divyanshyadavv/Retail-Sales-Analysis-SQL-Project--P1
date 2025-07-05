@@ -1,6 +1,7 @@
 ## 📊 Retail Sales Analysis – Learning Project
 
-This repository is a fork of the original [Retail Sales Analysis project]([https://github.com/najirh/Retail-Sales-Analysis-SQL-Project--P1/tree/main]), which I used for educational purposes.
+This repository is a fork of the original [Retail Sales Analysis project](https://github.com/najirh/Retail-Sales-Analysis-SQL-Project--P1/tree/main)
+, which I used for educational purposes.
 
 I explored this project to understand the full workflow of data analysis, including:
 - Working with CSV data
